@@ -2,9 +2,9 @@
 Code exports the mp3 cover art, if present, to a temp folder 'cover'\
 as a bonus an attempt is made to get the image dimensions of the\
 exported jpeg or png. A csv report as output can alternatively be\
-used with an sql variant db.
+used with an sql variant db.\
 \
-Support has been discontinued\
+**Support has been discontinued**\
 export of mp3 coverart has been intergrated with\
 cmdsqlite-v1.2 See https://github.com/thrive4/util.fb.cmdsqlite
 ## usage
